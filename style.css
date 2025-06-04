@@ -1,4 +1,4 @@
-@import url(('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 :root {
     --cor-principal: #6E859F;
@@ -7,7 +7,7 @@
 }
 
 body {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: Fjalla One, Static;
 }
 
 h1, h2, h5 {
@@ -22,4 +22,3 @@ footer a {
 footer a:hover {
     color: var(--cor-destaque);
 }
-
